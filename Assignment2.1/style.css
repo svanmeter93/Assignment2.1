@@ -1,0 +1,43 @@
+body 
+{
+background-color: rgb(136, 136, 160);
+color:rgb(155, 101, 30);
+}
+
+#ran1
+{
+    color:rgb(250, 250, 31);
+    font-size: 1cm;
+    margin-bottom: 1.5cap;
+}
+
+#ran2
+{
+    color: rgb(123, 255, 0);
+    font-size: 1cm;
+    margin-top: 1.5cap;
+    margin-bottom: 1.5cap;
+}
+
+#sum1 
+{
+    color: rgb(178, 204, 125);
+    font-size: 2cm;
+    margin-top: 2cap;
+    margin-bottom: 2cap;
+}
+
+#result 
+{
+color: aliceblue;
+font-size: 2cm;
+}
+
+button
+{
+    color: blue;
+    font-size: large;
+    border-radius: 5ch;
+    margin-top: 2cap;
+
+}
